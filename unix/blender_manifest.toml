@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "unix"
+version = "0.1.0"
+name = "Unix"
+tagline = "An AI 3D artist in Blender, driven by your own Claude CLI"
+maintainer = "Larpbase"
+type = "add-on"
+tags = ["3D View", "Modeling"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Save snapshots, renders and exports; read files you ask it to import"
+network = "Local loopback only: the Claude CLI connects to the add-on on 127.0.0.1"

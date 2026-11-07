@@ -1,0 +1,21 @@
+Unix
+Copyright (C) 2026 Larpbase
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General
+Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option)
+any later version. It is distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License (the file LICENSE) for details.
+
+All code, prompts, skills, tools, interface and artwork (the logo) are original work by Larpbase. The app is
+not made or endorsed by the Blender Foundation or Anthropic.
+
+Built on
+  Blender 4.5 LTS, https://www.blender.org, GPL-3.0-or-later. The engine is Blender's own program,
+  unmodified apart from its name and icon. Source: https://download.blender.org/source/
+  Blender's third-party licences are in its "license" folder.
+
+Used while it runs (fetched on request, not included)
+  Claude Code, signed in with the user's own Claude account (Anthropic's terms apply).
+  Poly Haven assets (CC0), https://polyhaven.com
+  Carnegie Mellon University Motion Capture Database, http://mocap.cs.cmu.edu (free for all uses).
+  Wikimedia Commons photos as modelling references (each under its own licence).

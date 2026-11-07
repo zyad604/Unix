@@ -1,0 +1,14 @@
+# built app, installer and local work: never in the repo
+app/
+dist/
+projects/
+*.blend
+*.blend1
+*.lnk
+# Python caches hold the build machine's paths
+__pycache__/
+*.pyc
+*.bak*
+*.orig
+# pictures and files that test runs write
+tests/_*
